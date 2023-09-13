@@ -2,7 +2,7 @@
 A static webpage to learn the fundamentals of CSS-in-JS using the @emotion/react library
 
 ## Live Site
-emotion-hotel.brandon-delgado.com
+https://emotion-hotel.brandon-delgado.com
 
 ## Technologies Used
 HTML
